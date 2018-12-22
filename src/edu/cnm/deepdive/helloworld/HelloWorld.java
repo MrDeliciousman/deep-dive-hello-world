@@ -5,7 +5,6 @@ package edu.cnm.deepdive.helloworld;
 
 /**
  * Simple class that displays the "Hello World!" message.
- *
  */
 public class HelloWorld {
 
